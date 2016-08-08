@@ -4,73 +4,55 @@
 <html>
 <head>
 <title>Burnaby Schools | School District 41</title>
-<link rel="stylesheet" type="text/css" href="images/css.css" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body>
+<!--header and navbar -->
 <div class="header">
-  <div><h1 class="header_title"><a href="#">Cristo Rey Jesuit High School</a></h1></div>
-  <div class="top">
-  </div>
-  <div class="nav-top">
-    <ul>
-	  <li>
-	    <a href="#">HOME</a>
-	  </li>
-	  <li>
-	    <a href="#">ABOUT</a>
-      </li>
-	  <li>
-	    <a href="#">SCHOOLS</a>
-	  </li>
-	  <li>
-	    <a href="#">PROGRAMS</a>
-	  </li>
-	  <li>
-	    <a href="#">SERVICES</a>
-	  </li>
-	  <li>
-	    <a href="#">BOARD</a>
-	  </li>
-	  <li>
-	    <a href="#">CONTACT</a>
-	  </li>
-	</ul>
-  </div>
-  <h1 class="header_title"><a href="#">Cristo Rey Jesuit High School</a></h1>
-</div>
-<div class="slider">
-	<div class="photo">
-	  
-	</div>
-	<div class="nav-right">
-		  <ul>
-		  <li>
-			<a href="#">International Education</a>
-		  </li>
-		  <li>
-			<a href="#">Continuing Education</a>
-		  </li>
-		  <li>
-			<a href="#">Burnaby Online</a>
-		  </li>
-		  <li>
-			<a href="#">Settlement Workers</a>
-		  </li>
-		  <li>
-			<a href="#">Job Opportunities</a>
-		  </li>
-		</ul>
-	</div>
+  <a class="hd_logo" href="#"><img src="images/logo.jpg" ></a>
+  <div class="hd_top_strip"></div>
+  <ul class="hd_nav">
+	  <li class="on"><a href="#">HOME</a><i></i></li>
+	  <li><a href="#">ABOUT</a><i></i></li>
+	  <li><a href="#">SCHOOLS</a><i></i></li>
+	  <li><a href="#">PROGRAMS</a><i></i></li>
+	  <li><a href="#">SERVICES</a><i></i></li>
+	  <li><a href="#">BOARD</a><i></i></li>
+	  <li><a href="#">CONTACT</a><i></i></li>
+  </ul>
 </div>
 
-<div class="slider" id="ph-slider">
-	<div class="photo-wall">
+<!--Big slides-->
+<div class="slider">
+	<div class="sl_img">
+		<img src="images/slide4.jpg">
+	</div>
+
+		  <ul class="sl_nav">
+		  <li>
+			<a href="images/slide1.jpg" >International Education</a>
+		  </li>
+		  <li>
+			<a href="images/slide2.jpg">Continuing Education</a>
+		  </li>
+		  <li>
+			<a href="images/slide3.jpg">Burnaby Online</a>
+		  </li>
+		  <li>
+			<a href="images/slide4.jpg">Settlement Workers</a>
+		  </li>
+		  <li>
+			<a href="images/slide5.jpg">Job Opportunities</a>
+		  </li>
+		</ul>
+
+</div>
+<!--moving gallery-->
+<div class="gallery">
 		<img src="images/1.jpg" />
 		<img src="images/2.jpg" />
 		<img src="images/3.jpg" />
 		<img src="images/4.jpg" />
-	</div>
-
 </div>
 
 <div class="main">
@@ -348,6 +330,7 @@ The first week of September you can call the school to get specific registration
 	  <a href="#header" style="color:#999;">Back to Top</a>
 	  </div>
 </div><!--footer end-->
-
+<script src="js/addOnloadEvent.js"></script>
+<script src="js/toggleSlides.js"></script>
 </body>
 </html>

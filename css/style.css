@@ -1,137 +1,40 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700|Fjalla+One);
-*{
-margin:0;
-padding:0;
-}
 
-body, body a {
-	font-size: 14px;
-	font-family: "Open Sans", sans-serif;
-}
-li{list-style-type:none;}
-html { 
-	background-image: url('sunsetonvancouver.jpg');
-	background-attachment: fixed;
-	    background-clip: border-box;
-	    background-origin: padding-box;
-	    background-position: center top;
-	    background-repeat: no-repeat;
-	    background-size: cover;
-}
-.header{
-  width:auto;
-  height:150px;
-  background:#00a2e8;
-  box-shadow: 3px 3px 3px #888888;
-}
+*{ margin:0; padding:0;}
+a{ text-decoration:none;}
+img{ border:none;}
+ul,ol{ list-style:none;}
+body{font-size: 14px;  font-family: "Open Sans", sans-serif;  background: url('../images/sunsetonvancouver.jpg') no-repeat fixed center top; background-size: cover }
 
-.header .top{
-  height:30px;
-  background:#ff7f27;
-  border:none;
-  clear:both;
-}
+/* header section*/
+.header{ width:100%;  height:150px; position: fixed;  top:0px;  z-index: 999; background-color:#00a2e8;  box-shadow: 3px 3px 3px #888888;  }
+.hd_logo {display:block; position:absolute; top:0px; left:10%}
+.hd_top_strip{position: absolute; top:0px; height:30px; width:100%; background-color:#ff7f27; z-index: -1}
+.hd_nav{position: absolute; right:100px; bottom:0; height: 120px; width: 50%; overflow: hidden; z-index: -1;}
+.hd_nav li{float:left;position: relative;}
+.hd_nav li a{padding:0 20px; display:block; line-height: 120px; font-size: 20px; color:#fff;}
+.hd_nav li i{ display:block; width:0%; height:3px; background:#ff7f27; position:absolute; bottom:0; left:50%; transition:0.3s;}
+.hd_nav li.on a,.hd_nav li:hover a{font-weight: 900; color: #ff7f27; text-shadow: 1px 1px 2px rgba(0,0,0,.35); font-size:23px; text-transform: uppercase;}
+.hd_nav li.on i,.hd_nav li:hover i{ left:0; width:100%;}
+
+/* banner/slider section*/
+.slider{ height:400px; width:1075px;  margin: 180px auto 0px auto; box-shadow: 2px 2px 5px rgba(0,0,0,.40); position: relative;}
+.slider:hover{box-shadow: 2px 2px 15px rgba(0,0,0,.40);}
+.sl_img{ width:747px; height:390px; float:left; margin-left:2px; margin-top:2px;position: absolute;top:0px;left:0px;}
+.sl_nav{margin-left: 340px;}
 
 
-.header .nav-top{
-  height:120px;
-  margin-left:35%;
-}
-
-.header .nav-top ul{
-  height:120px;
-  text-align:center;
-  overflow:hidden;
-  width:700px;
-  line-height:100px;
-  margin-left:100px;
-  position:absolute;
-}
-
-.header .nav-top ul li{
-  display:inline-block;
-  list-style-type:none;
-  margin-left:1px;
-}
-
-.header .nav-top li a{
-  padding: 0 5px 0;
-  line-height: 120px;
-  font-weight: 900;
-  color: #f3eadf;
-  text-shadow: rgba(0,0,0,.35) 1px 1px 0;
-  position: relative;
-  text-transform: uppercase;
-  text-decoration:none;
-  font-size:18px;
-  font-family: "Open Sans", sans-serif;
-}
-
-.header .nav-top li a:hover{
-  padding: 0 10px 0;
-  line-height: 96px;
-  font-weight: 900;
-  color: #ff7f27;
-  text-shadow: rgba(0,0,0,.35) 1px 1px 0;
-  font-size:23px;
-  position: relative;
-  text-transform: uppercase;
-  text-decoration:none;
-}
-
-.header_title a {
-	width: 316px;
-	height: 0;
-	margin-left:150px;
-	margin-top:0 px;
-	padding: 150px 0 0;
-	overflow: hidden;
-	display: block;
-	background: url('header_logo.jpg') no-repeat;
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index: 999;
-	box-shadow: -2px 0px 5px rgba(0,0,0,.40);
-    box-shadow: 0px 2px 5px rgba(0,0,0,.40);
-}
-
-.slider{
-  height:400px;
-  width:1090px;
-  margin-left:11%;
-  margin-top:30px;
-  margin-bottom:10px;
-
-}
-#ph-slider{
-  height:314px;
-}
-.photo{
-  width:747px;
-  height:390px;
-  float:left;
-  background:url('SFU.jpg');
-  margin-left:2px;
-  margin-top:2px;
-  border: 4px solid #f3eadf;
-  border-right:none;
-  box-shadow: -2px -2px 5px rgba(0,0,0,.40);
-  box-shadow: 0px 2px 5px rgba(0,0,0,.40);
-}
-
-.photo-wall{
+/* gallery section*/
+.gallery{
   width:1070px;
   height:260px;
-  float:left;
   background:#fff;
-  margin-left:2px;
-  margin-top:20px;
+  margin: 30px auto;
   border: 4px solid #f3eadf;
   box-shadow: -2px -2px 5px rgba(0,0,0,.77);
   box-shadow: 2px 2px 5px rgba(0,0,0,.77);
 }
-.photo-wall img{
+.gallery img{
   height:250px;
   width:250px;
   overflow:hidden;
@@ -139,69 +42,16 @@ html {
   margin-left:14px;
   margin-top:5px;
   }
-.nav-right{
-  width:323px;
-  height:390px;
-  float:right;
-  background:#00a2e8;
-  margin-right:2px;
-  margin-top:2px;
-  border: 4px solid #f3eadf;
-  border-left:8px solid #f3eadf;
-  box-shadow: 2px -2px 5px rgba(0,0,0,.40);
-  box-shadow: 0px 2px 5px rgba(0,0,0,.40);
-}
 
-.nav-right ul{
-  height:390px;
-  text-align:center;
-  overflow:hidden;
-  line-height:77px;
-  
-}
-
-.nav-right li{
-  margin:0 auto;
-  list-style-type:none;
-  margin-left:1px;
-  margin-top:0px;
-  border-bottom:1px solid #f3eadf;
-  height:77px;
-  
-  }
-
-.nav-right li a{
-  padding: 0;
-  line-height: 77px;
-  font-weight: 900;
-  text-shadow: rgba(0,0,0,.35) 1px 1px 0;
-  color:#f3eadf;
-  position: relative;
-  text-decoration:none;
-  font-size:18px;
-
-}
-
-.nav-right li a:hover{
-  padding: 0 5px 0;
-  line-height: 20px;
-  font-weight: 900;
-  color:#ff7f27;
-  position: relative;
-  text-transform: uppercase;
-  text-decoration:none;
-  font-size:18px;
-}
 
 .main{
   background:#f3eadf;
   width:1090px;
   height:1000px;
-  margin-left:11%;
-  margin-top:30px;
-  margin-bottom:20px;
+  margin: 30px auto;
   box-shadow: -2px -2px 5px rgba(0,0,0,.40);
   box-shadow: 2px 2px 5px rgba(0,0,0,.40);
+
 }
 #ph-main{
   margin-top:30px;
@@ -266,7 +116,7 @@ html {
 	margin-top:0px;
 	width:510px;
 	padding-bottom: 12px;
-	background-image: url('header_shadow.png');
+	background-image: url('../images/header_shadow.png');
 	background-position: bottom center;
 	background-repeat: no-repeat;
 	background-size: 100% auto;
@@ -561,6 +411,6 @@ table {
 
 .zebra tfoot td:only-child{
     -moz-border-radius: 0 0 6px 6px;
-    -webkit-border-radius: 0 0 6px 6px
+    -webkit-border-radius: 0 0 6px 6px;
     border-radius: 0 0 6px 6px
 }
