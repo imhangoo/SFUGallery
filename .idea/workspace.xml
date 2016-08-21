@@ -2,31 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc8c4b53-48fc-4509-9c9e-c7e9fc12955c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slide2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slide3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slide4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slide5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/icon_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/iconfont-industry-report.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/iconfont-xinwen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/logo_ft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/more_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/news_left_text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/pro1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/title_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/images/video_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/addOnloadEvent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/toggleSlides.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/style/webstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/images/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/images/bannerBtn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/b1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/b2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/b3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/b4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/b5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/chacha3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/feel3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/feel4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/index_tab_l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/index_tab_r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/s1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/s2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/s3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/s4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/images/s5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/js/lanren.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider2/js/pic_tab.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pdf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pdf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/read_more.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/addOnloadEvent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/toggleSlides.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slide1.jpg" afterPath="$PROJECT_DIR$/images/slide1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slide2.jpg" afterPath="$PROJECT_DIR$/images/slide2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slide3.jpg" afterPath="$PROJECT_DIR$/images/slide3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slide4.jpg" afterPath="$PROJECT_DIR$/images/slide4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slide5.jpg" afterPath="$PROJECT_DIR$/images/slide5.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pamphlets.html" afterPath="$PROJECT_DIR$/pamphlets.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/SFU.jpg" afterPath="$PROJECT_DIR$/images/slide1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/css.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/header_logo.jpg" afterPath="$PROJECT_DIR$/images/logo.jpg" />
     </list>
     <ignored path="SFUHome.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,47 +63,37 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="webstyle.css" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/sample/style/webstyle.css">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="390">
-                    <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="SFUHome" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+            <state relative-caret-position="270">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="slide.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/slide.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-240">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="318">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -92,6 +104,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -104,12 +117,15 @@
       <list>
         <option value="$PROJECT_DIR$/images/css.css" />
         <option value="$PROJECT_DIR$/js/addOnloadEvent.js" />
-        <option value="$PROJECT_DIR$/js/slide.js" />
         <option value="$PROJECT_DIR$/js/toggleSlides.js" />
         <option value="$PROJECT_DIR$/sample/index.html" />
         <option value="$PROJECT_DIR$/sample/style/webstyle.css" />
-        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/slider/index.html" />
+        <option value="$PROJECT_DIR$/jq.html" />
+        <option value="$PROJECT_DIR$/slider2/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/slide.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -120,8 +136,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="946" />
+    <option name="y" value="261" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -178,43 +194,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SFUGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SFUGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SFUGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SFUGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,12 +237,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProjects\SFUGallery\images" />
+      <recent name="D:\MyProjects\SFUGallery\slider2" />
+      <recent name="D:\MyProjects\SFUGallery\slider" />
       <recent name="D:\MyProjects\SFUGallery" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyProjects\SFUGallery\slider2" />
+      <recent name="D:\MyProjects\SFUGallery\slider" />
       <recent name="D:\MyProjects\SFUGallery\css" />
       <recent name="D:\MyProjects\SFUGallery\images" />
     </key>
@@ -340,17 +326,22 @@
       <workItem from="1470423627102" duration="4343000" />
       <workItem from="1470459490556" duration="5869000" />
       <workItem from="1470521760068" duration="8066000" />
+      <workItem from="1470730345935" duration="1806000" />
+      <workItem from="1470766600442" duration="9115000" />
+      <workItem from="1470893749205" duration="6103000" />
+      <workItem from="1471726268984" duration="653000" />
+      <workItem from="1471741728801" duration="7760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29897000" />
+    <option name="totallyTimeSpent" value="55334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="946" y="261" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18489583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16145833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -384,6 +375,102 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sample/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="78" column="36" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider2/js/pic_tab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider2/js/pic_tab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/style/webstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -396,7 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1410">
           <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -404,7 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -428,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -436,7 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -525,11 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/slide1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pamphlets.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -556,44 +634,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/sunsetonvancouver.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/slider/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jq.html" />
+    <entry file="file://$PROJECT_DIR$/slider/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider2/js/pic_tab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slider2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding />
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/header_shadow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="78" column="36" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample/style/webstyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="819">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-707">
-          <caret line="78" column="36" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="36" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/slide1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/slide2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/slide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding />
         </state>
       </provider>
